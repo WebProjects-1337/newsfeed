@@ -75,7 +75,7 @@ body {
 }
 
 .header__navigation .navigation__logo img {
-    width: 250px;
+    width: 400px;
     height: auto;
 }
 
@@ -252,7 +252,7 @@ body {
 }
 
 .footer__navigation .navigation__logo img{
-    width: 200px;
+    width: 170px;
     height: auto;
 }
 
